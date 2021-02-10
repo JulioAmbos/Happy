@@ -2,13 +2,14 @@
     <img alt="Happy" title="Happy" src=".github/logo.svg" />
 </h1>
 
-<p align="center">
+<h3 align="center">  
   <a href="#-finalidade">Finalidade</a>&nbsp;|&nbsp;  
   <a href="#-tecnologias">Tecnologias</a>&nbsp;|&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;|&nbsp;
   <a href="#-layout">Layout</a>&nbsp;|&nbsp;
   <a href="#memo-licença">Licença</a>
-</p>
+</h3>
+
 
 <p align="center">
  <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=15C3D6&labelColor=000000" alt="PRs welcome!" />
