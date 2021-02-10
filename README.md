@@ -21,6 +21,9 @@
   <img alt="Happy" src=".github/happy.png" width="100%">
 </p>
 
+##  Finalidade
+Estudo e aplicação de novas técnicas.
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
