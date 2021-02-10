@@ -22,7 +22,7 @@
   <img alt="Happy" src=".github/happy.png" width="100%">
 </p>
 
-##    Finalidade
+## Finalidade
 Estudo e aplicação de novas técnicas.
 
 ## 🚀 Tecnologias
