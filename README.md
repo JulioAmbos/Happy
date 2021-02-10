@@ -3,6 +3,7 @@
 </h1>
 
 <p align="center">
+  <a href="#-finalidade">Finalidade</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -21,7 +22,7 @@
   <img alt="Happy" src=".github/happy.png" width="100%">
 </p>
 
-##  Finalidade
+##    Finalidade
 Estudo e aplicação de novas técnicas.
 
 ## 🚀 Tecnologias
